@@ -54,3 +54,4 @@ There are many more configuration settings you can pass to the Docker image, inc
 ## Author
 
 This project is being developed by [Mathias Lafeldt](https://twitter.com/mlafeldt).
+
